@@ -11,6 +11,7 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
 
 ![John Heric GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnHeric&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnHeric)](https://github.com/JohnHeric/github-readme-stats)
 
 ## Habilidades
 
